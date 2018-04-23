@@ -1,0 +1,19 @@
+{
+  "access_key": "",
+  "secret_key": "",
+  "src_dir": "F:\\h5frontend\\h5-fe\\dist",
+  "bucket": "h5-fe-test",
+  "ignore_dir": false,
+  "overwrite": true,
+  "check_exists": false,
+  "check_hash": false,
+  "check_size": false,
+  "skip_file_prefixes": ".git,bin",
+  "skip_path_prefixes": "temp/",
+  "skip_fixed_strings": ".svn",
+  "skip_suffixes": ".DS_Store,.exe",
+  "rescan_local": true,
+  "log_file": "upload.log",
+  "log_level": "info"
+}
+
